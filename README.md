@@ -6,4 +6,4 @@ Website ini bisa buat kalian confess ke orang yang kalian sukai/kagumi, Jangan L
 * Css
 * Javascript
 
-[https://s.id/1ZBPS]
+[https://muuwafi.github.io/confess/]
